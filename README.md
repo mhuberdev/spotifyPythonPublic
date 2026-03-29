@@ -2,7 +2,7 @@
 
 This project analyzes personal Spotify streaming history using Python.
 
-see spotify_eda.ipynb
+see [spotify_eda.ipynb](https://github.com/mhuberdev/spotifyPythonPublic/blob/df4bbb702c95c539ca92dcd000830b534a4beeb1/spotify_eda.ipynb)
 
 ## Features
 - Data cleaning and transformation
