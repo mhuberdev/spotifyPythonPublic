@@ -1,6 +1,7 @@
 # Spotify Streaming Analysis
 
 This project analyzes personal Spotify streaming history using Python.
+
 see spotify_eda.ipynb
 
 ## Features
