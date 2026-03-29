@@ -1,6 +1,7 @@
 # Spotify Streaming Analysis
 
 This project analyzes personal Spotify streaming history using Python.
+see spotify_eda.ipynb
 
 ## Features
 - Data cleaning and transformation
@@ -19,3 +20,8 @@ Outputs (like those below) are already included in the notebook.
 <img width="987" height="586" alt="image" src="https://github.com/user-attachments/assets/52bc1589-2dce-4175-a468-af5ba9790fcb" />
 
 <img width="794" height="425" alt="image" src="https://github.com/user-attachments/assets/2e28ad26-62b8-4a63-a584-642e92e64f96" />
+
+##Author
+
+Michael Huber
+
